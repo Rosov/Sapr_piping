@@ -1,0 +1,4 @@
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping-pmprnd-lt.csproj.ResolveComReference.cache
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb

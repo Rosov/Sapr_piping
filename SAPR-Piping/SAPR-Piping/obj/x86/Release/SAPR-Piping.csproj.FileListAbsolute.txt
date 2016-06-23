@@ -1,0 +1,14 @@
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\x86\Release\SAPR-Piping.exe.config
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\x86\Release\Main.accdb
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\x86\Release\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\x86\Release\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR_Piping.Form1.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR_Piping.Properties.Resources.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\x86\Release\SAPR_Piping.SelectZKSForm.resources

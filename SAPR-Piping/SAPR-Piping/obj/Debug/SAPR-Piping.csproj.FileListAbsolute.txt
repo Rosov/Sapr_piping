@@ -1,0 +1,245 @@
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+c:\users\studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\Studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\Studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\Studio\documents\visual studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+D:\Новая папка\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+D:\Новая папка\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+D:\Новая папка\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\KMA\Documents\Visual Studio 2013\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\Main\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\PMPRNDlt\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+C:\Users\KMA\OneDrive\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+E:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+E:\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+E:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+E:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+E:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+D:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+D:\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+D:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+D:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+H:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+H:\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+H:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+H:\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+H:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\пробую очистить каталог проекта\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+c:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.TestPerehod.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.TestPerehod.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+D:\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.TestPerehod.resources
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.TestPerehod.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR_Piping.TestPerehod.resources
+C:\Users\KMA\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016_05_16\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR_Piping.TestPerehod.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-18\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Truba.resources
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\bin\Debug\MainENG.mdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\bin\Debug\SAPR-Piping.exe.config
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.ResolveComReference.cache
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR-Piping.exe
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR-Piping.pdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\bin\Debug\Main.accdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\bin\Debug\MainENG.mdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\bin\Debug\SAPR-Piping.exe
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\bin\Debug\SAPR-Piping.pdb
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR-Piping.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.Form1.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.FormZoomZK.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.Properties.Resources.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.RedactorForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.SelectKZForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.SelectPerehodForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.SelectTypeElementForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.SelectZKSForm.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.TestPerehod.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR_Piping.Truba.resources
+C:\Users\Main\Documents\Visual Studio 2015\Projects\SAPR-Piping_2016-05-30\SAPR-Piping\obj\Debug\SAPR-Piping.csproj.GenerateResource.Cache
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Otvod.resources
+C:\Users\Studio\Documents\Visual Studio 2015\Projects\SAPR-Piping\SAPR-Piping\obj\Debug\SAPR_Piping.Troinik.resources
